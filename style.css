@@ -36,3 +36,32 @@ ul{
         background: linear-gradient(105deg, white 50%, #F6B400 0%);
 
   }
+  .order-now {
+    width: 100px;
+    height: 40px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #F6B400;
+    border-color: white;
+    margin-top: 100px;
+    margin-left: 75px;
+    flex-direction: row;
+}
+.city-image {
+    position:absolute;
+    left: 700px;
+    top: 150px;
+    height: auto; 
+    width: auto; 
+    max-width: 400px; 
+    max-height: 400px;
+    
+
+}
+.logo{
+    display: flex;
+}
+.para{
+    font-size: 20px;
+}
