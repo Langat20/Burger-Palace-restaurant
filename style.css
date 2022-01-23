@@ -146,3 +146,95 @@ ul{
     background-clip: content-box;
     text-align: center;
   }
+  .sixthsection {
+    width: 100%;
+    height: 260px;
+    background-color:#E1EBE6;
+    background-clip: content-box;
+    text-align: center;
+  }
+
+  .icon-alignment {
+      float: left;
+      position: relative;
+
+  }
+
+
+
+.advert {
+    font-size: 20px;
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2px;
+}
+.content {
+    font-size: 15px;
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif
+
+}
+p{
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+}
+.icon {
+    padding-top: 4%;
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+}
+.advertisement {
+    position: absolute;
+    left: 230px;
+}
+.advert-icon {
+    position: absolute;
+    left: 580px;
+    height: auto; 
+    width: auto; 
+    max-width: 250px; 
+    max-height: 250px;
+}
+.advert-icon2 {
+    position: absolute;
+    left: 540px;
+    height: auto; 
+    width: auto; 
+    max-width: 250px; 
+    max-height: 250px;
+    z-index: 1;
+}
+.advert-content {
+    position: absolute;
+    left: 230px;
+    top: 2700px;
+}
+.contacts {
+    position: absolute;
+    left: 100px;
+    top: 3100px;
+    font-weight: 700;
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+.contact-icon1 {
+    position: absolute;
+    left: 100px;
+    top: 3320px;
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+
+}
+
+.contact-icon2 {
+    position: absolute;
+    left: 250px;
+    top: 3320px;
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+
+}
