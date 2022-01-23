@@ -65,3 +65,32 @@ ul{
 .para{
     font-size: 20px;
 }
+}
+.quality-burgers {
+    height: 70%;
+    margin-top: 10%;
+    width: 25%;
+    border-radius: 15px;
+
+}
+.fast-delivery {
+  height: 80%;
+  width: 30%;
+  border-radius: 15px;
+
+}
+.delicious-meals {
+  height: 70%;
+  width: 25%;
+  border-radius: 15px;
+}
+.cart-title {
+  width: 85%;
+  height: 30px;
+  background-color:white;
+  background-clip: content-box;
+  font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  padding: 30px;
+  font-size: 30px;
+}
