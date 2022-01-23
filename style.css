@@ -238,3 +238,95 @@ p{
     max-height: 100px;
 
 }
+.phone-icon1 {
+    position: absolute;
+    top: 3100px;
+    left: 650px;
+    padding-top: 4%;
+    height: auto; 
+    width: auto; 
+    max-width: 500px; 
+    max-height: 500px;
+}
+.icon-alignment2 {
+    position: absolute;
+    top: 3700px;
+    left: 110px;
+}
+.burger-logo2 {
+    position: absolute;
+    left: 200px;
+    top: 3720px;
+}
+.search-bar {
+    position: absolute;
+    left: 800px;
+    top: 3800px;
+}
+.email {
+    position: absolute;
+    left: 800px;
+    top: 3720px;
+}
+.copyright {
+    position: absolute;
+    left: 120px;
+    top: 3850px
+}
+.designer {
+    position: absolute;
+    left: 840px;
+    top: 3850px;
+}
+.align-page {
+    align-items: center;
+}
+.basket-icon {
+    position: relative;
+    padding-top: 17px;
+    padding-left: 90px;
+}
+.flex-content {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 360px;
+    top: 3700px;
+    
+}
+.flex-content ul li{
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+.get-in-touch {
+    position: absolute;
+    top: 3860px;
+    right: 580px;
+}
+.i-icon {
+    height: auto; 
+    width: auto; 
+    max-width: 16px; 
+    max-height: 16px;
+}
+.amount {
+position: relative;
+font-size: 16px;
+font-weight: 700;
+}
+.amount1 {
+    background-color:  #E1EBE6;
+    font-size: 15px;
+    padding: 4px;
+    border-radius: 30px;
+}
+.cart-image {
+background-color: #E1EBE6;
+height: auto; 
+width: auto; 
+max-width: 30px; 
+max-height: 30px;
+padding: 7px;
+}
