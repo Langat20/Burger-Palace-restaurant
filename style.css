@@ -66,22 +66,21 @@ ul{
     font-size: 20px;
 }
   .quality-burgers {
-      height: 70%;
-      margin-top: 10%;
-      width: 25%;
-      border-radius: 15px;
+      border-radius: 1px solid;
+      box-shadow: 1px 1px;
+      
 
   }
   .fast-delivery {
-    height: 80%;
-    width: 30%;
-    border-radius: 15px;
+    height: 300px;
+    border-radius: 1px;
+    box-shadow: 1px 1px;
 
 }
   .delicious-meals {
     height: 70%;
-    width: 25%;
-    border-radius: 15px;
+    border-radius: 1px;
+    box-shadow: 1px 1px;
 }
   .cart-title {
     width: 85%;
@@ -93,6 +92,15 @@ ul{
     padding: 30px;
     font-size: 30px;
   }
+  .secondsection{
+display: flex;
+margin-left: 15%;
+background-color: #E1EBE6;
+background-clip: content-box;
+text-align: center;
+
+  }
+
   .thirdsection-1 {
     width: 100%;
     height: 500px;
